@@ -1,4 +1,4 @@
-#  VisionGraph-FPN: Graph-Enhanced FPN for Pneumonia Detection
+#  VisionGraph-FPN: Graph Neural Network-Based Feature Pyramid Network for Robust Pneumonia Detection
 
 VisionGraph-FPN is an advanced deep learning framework designed for accurate pneumonia detection in chest X-ray (CXR) images. By integrating **Graph Neural Networks (GNNs)** with **Faster R-CNN** and **Feature Pyramid Networks (FPN)**, it enhances spatial and contextual feature representations, outperforming traditional convolutional neural network (CNN)-based object detectors. This project leverages graph-based feature extraction and multi-scale learning to achieve state-of-the-art performance on the RSNA Pneumonia Detection Challenge dataset.
 
